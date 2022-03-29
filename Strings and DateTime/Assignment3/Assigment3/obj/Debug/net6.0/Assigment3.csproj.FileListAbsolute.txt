@@ -1,0 +1,15 @@
+D:\Amdaris\Strings and DateTime\Assigment3\Assigment3\obj\Debug\net6.0\Assigment3.csproj.AssemblyReference.cache
+D:\Amdaris\Strings and DateTime\Assigment3\Assigment3\obj\Debug\net6.0\Assigment3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amdaris\Strings and DateTime\Assigment3\Assigment3\obj\Debug\net6.0\Assigment3.AssemblyInfoInputs.cache
+D:\Amdaris\Strings and DateTime\Assigment3\Assigment3\obj\Debug\net6.0\Assigment3.AssemblyInfo.cs
+D:\Amdaris\Strings and DateTime\Assigment3\Assigment3\obj\Debug\net6.0\Assigment3.csproj.CoreCompileInputs.cache
+D:\Amdaris\Strings and DateTime\Assigment3\Assigment3\bin\Debug\net6.0\Assigment3.exe
+D:\Amdaris\Strings and DateTime\Assigment3\Assigment3\bin\Debug\net6.0\Assigment3.deps.json
+D:\Amdaris\Strings and DateTime\Assigment3\Assigment3\bin\Debug\net6.0\Assigment3.runtimeconfig.json
+D:\Amdaris\Strings and DateTime\Assigment3\Assigment3\bin\Debug\net6.0\Assigment3.dll
+D:\Amdaris\Strings and DateTime\Assigment3\Assigment3\bin\Debug\net6.0\Assigment3.pdb
+D:\Amdaris\Strings and DateTime\Assigment3\Assigment3\obj\Debug\net6.0\Assigment3.dll
+D:\Amdaris\Strings and DateTime\Assigment3\Assigment3\obj\Debug\net6.0\refint\Assigment3.dll
+D:\Amdaris\Strings and DateTime\Assigment3\Assigment3\obj\Debug\net6.0\Assigment3.pdb
+D:\Amdaris\Strings and DateTime\Assigment3\Assigment3\obj\Debug\net6.0\Assigment3.genruntimeconfig.cache
+D:\Amdaris\Strings and DateTime\Assigment3\Assigment3\obj\Debug\net6.0\ref\Assigment3.dll

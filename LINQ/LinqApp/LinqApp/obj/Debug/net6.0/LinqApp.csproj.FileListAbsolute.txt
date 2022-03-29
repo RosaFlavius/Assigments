@@ -1,0 +1,15 @@
+D:\Amdaris\LINQ\LinqApp\LinqApp\bin\Debug\net6.0\LinqApp.exe
+D:\Amdaris\LINQ\LinqApp\LinqApp\bin\Debug\net6.0\LinqApp.deps.json
+D:\Amdaris\LINQ\LinqApp\LinqApp\bin\Debug\net6.0\LinqApp.runtimeconfig.json
+D:\Amdaris\LINQ\LinqApp\LinqApp\bin\Debug\net6.0\LinqApp.dll
+D:\Amdaris\LINQ\LinqApp\LinqApp\bin\Debug\net6.0\LinqApp.pdb
+D:\Amdaris\LINQ\LinqApp\LinqApp\obj\Debug\net6.0\LinqApp.csproj.AssemblyReference.cache
+D:\Amdaris\LINQ\LinqApp\LinqApp\obj\Debug\net6.0\LinqApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amdaris\LINQ\LinqApp\LinqApp\obj\Debug\net6.0\LinqApp.AssemblyInfoInputs.cache
+D:\Amdaris\LINQ\LinqApp\LinqApp\obj\Debug\net6.0\LinqApp.AssemblyInfo.cs
+D:\Amdaris\LINQ\LinqApp\LinqApp\obj\Debug\net6.0\LinqApp.csproj.CoreCompileInputs.cache
+D:\Amdaris\LINQ\LinqApp\LinqApp\obj\Debug\net6.0\LinqApp.dll
+D:\Amdaris\LINQ\LinqApp\LinqApp\obj\Debug\net6.0\refint\LinqApp.dll
+D:\Amdaris\LINQ\LinqApp\LinqApp\obj\Debug\net6.0\LinqApp.pdb
+D:\Amdaris\LINQ\LinqApp\LinqApp\obj\Debug\net6.0\LinqApp.genruntimeconfig.cache
+D:\Amdaris\LINQ\LinqApp\LinqApp\obj\Debug\net6.0\ref\LinqApp.dll
