@@ -1,0 +1,15 @@
+D:\Amdaris\Assigments\CreationalDesingPatterns\CreationalDP\CreationalDP\bin\Debug\net6.0\CreationalDP.exe
+D:\Amdaris\Assigments\CreationalDesingPatterns\CreationalDP\CreationalDP\bin\Debug\net6.0\CreationalDP.deps.json
+D:\Amdaris\Assigments\CreationalDesingPatterns\CreationalDP\CreationalDP\bin\Debug\net6.0\CreationalDP.runtimeconfig.json
+D:\Amdaris\Assigments\CreationalDesingPatterns\CreationalDP\CreationalDP\bin\Debug\net6.0\CreationalDP.dll
+D:\Amdaris\Assigments\CreationalDesingPatterns\CreationalDP\CreationalDP\bin\Debug\net6.0\CreationalDP.pdb
+D:\Amdaris\Assigments\CreationalDesingPatterns\CreationalDP\CreationalDP\obj\Debug\net6.0\CreationalDP.csproj.AssemblyReference.cache
+D:\Amdaris\Assigments\CreationalDesingPatterns\CreationalDP\CreationalDP\obj\Debug\net6.0\CreationalDP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amdaris\Assigments\CreationalDesingPatterns\CreationalDP\CreationalDP\obj\Debug\net6.0\CreationalDP.AssemblyInfoInputs.cache
+D:\Amdaris\Assigments\CreationalDesingPatterns\CreationalDP\CreationalDP\obj\Debug\net6.0\CreationalDP.AssemblyInfo.cs
+D:\Amdaris\Assigments\CreationalDesingPatterns\CreationalDP\CreationalDP\obj\Debug\net6.0\CreationalDP.csproj.CoreCompileInputs.cache
+D:\Amdaris\Assigments\CreationalDesingPatterns\CreationalDP\CreationalDP\obj\Debug\net6.0\CreationalDP.dll
+D:\Amdaris\Assigments\CreationalDesingPatterns\CreationalDP\CreationalDP\obj\Debug\net6.0\refint\CreationalDP.dll
+D:\Amdaris\Assigments\CreationalDesingPatterns\CreationalDP\CreationalDP\obj\Debug\net6.0\CreationalDP.pdb
+D:\Amdaris\Assigments\CreationalDesingPatterns\CreationalDP\CreationalDP\obj\Debug\net6.0\CreationalDP.genruntimeconfig.cache
+D:\Amdaris\Assigments\CreationalDesingPatterns\CreationalDP\CreationalDP\obj\Debug\net6.0\ref\CreationalDP.dll

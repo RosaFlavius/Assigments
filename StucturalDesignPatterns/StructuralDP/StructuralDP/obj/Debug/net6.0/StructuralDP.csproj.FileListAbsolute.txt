@@ -1,0 +1,15 @@
+D:\Amdaris\Assigments\StucturalDesignPatterns\StructuralDP\StructuralDP\obj\Debug\net6.0\StructuralDP.csproj.AssemblyReference.cache
+D:\Amdaris\Assigments\StucturalDesignPatterns\StructuralDP\StructuralDP\obj\Debug\net6.0\StructuralDP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amdaris\Assigments\StucturalDesignPatterns\StructuralDP\StructuralDP\obj\Debug\net6.0\StructuralDP.AssemblyInfoInputs.cache
+D:\Amdaris\Assigments\StucturalDesignPatterns\StructuralDP\StructuralDP\obj\Debug\net6.0\StructuralDP.AssemblyInfo.cs
+D:\Amdaris\Assigments\StucturalDesignPatterns\StructuralDP\StructuralDP\obj\Debug\net6.0\StructuralDP.csproj.CoreCompileInputs.cache
+D:\Amdaris\Assigments\StucturalDesignPatterns\StructuralDP\StructuralDP\bin\Debug\net6.0\StructuralDP.exe
+D:\Amdaris\Assigments\StucturalDesignPatterns\StructuralDP\StructuralDP\bin\Debug\net6.0\StructuralDP.deps.json
+D:\Amdaris\Assigments\StucturalDesignPatterns\StructuralDP\StructuralDP\bin\Debug\net6.0\StructuralDP.runtimeconfig.json
+D:\Amdaris\Assigments\StucturalDesignPatterns\StructuralDP\StructuralDP\bin\Debug\net6.0\StructuralDP.dll
+D:\Amdaris\Assigments\StucturalDesignPatterns\StructuralDP\StructuralDP\bin\Debug\net6.0\StructuralDP.pdb
+D:\Amdaris\Assigments\StucturalDesignPatterns\StructuralDP\StructuralDP\obj\Debug\net6.0\StructuralDP.dll
+D:\Amdaris\Assigments\StucturalDesignPatterns\StructuralDP\StructuralDP\obj\Debug\net6.0\refint\StructuralDP.dll
+D:\Amdaris\Assigments\StucturalDesignPatterns\StructuralDP\StructuralDP\obj\Debug\net6.0\StructuralDP.pdb
+D:\Amdaris\Assigments\StucturalDesignPatterns\StructuralDP\StructuralDP\obj\Debug\net6.0\StructuralDP.genruntimeconfig.cache
+D:\Amdaris\Assigments\StucturalDesignPatterns\StructuralDP\StructuralDP\obj\Debug\net6.0\ref\StructuralDP.dll

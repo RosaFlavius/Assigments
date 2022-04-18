@@ -1,0 +1,15 @@
+D:\Amdaris\C#Basics\CSharpBasics\CSharpBasics\obj\Debug\net6.0\CSharpBasics.csproj.AssemblyReference.cache
+D:\Amdaris\C#Basics\CSharpBasics\CSharpBasics\obj\Debug\net6.0\CSharpBasics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amdaris\C#Basics\CSharpBasics\CSharpBasics\obj\Debug\net6.0\CSharpBasics.AssemblyInfoInputs.cache
+D:\Amdaris\C#Basics\CSharpBasics\CSharpBasics\obj\Debug\net6.0\CSharpBasics.AssemblyInfo.cs
+D:\Amdaris\C#Basics\CSharpBasics\CSharpBasics\obj\Debug\net6.0\CSharpBasics.csproj.CoreCompileInputs.cache
+D:\Amdaris\C#Basics\CSharpBasics\CSharpBasics\bin\Debug\net6.0\CSharpBasics.exe
+D:\Amdaris\C#Basics\CSharpBasics\CSharpBasics\bin\Debug\net6.0\CSharpBasics.deps.json
+D:\Amdaris\C#Basics\CSharpBasics\CSharpBasics\bin\Debug\net6.0\CSharpBasics.runtimeconfig.json
+D:\Amdaris\C#Basics\CSharpBasics\CSharpBasics\bin\Debug\net6.0\CSharpBasics.dll
+D:\Amdaris\C#Basics\CSharpBasics\CSharpBasics\bin\Debug\net6.0\CSharpBasics.pdb
+D:\Amdaris\C#Basics\CSharpBasics\CSharpBasics\obj\Debug\net6.0\CSharpBasics.dll
+D:\Amdaris\C#Basics\CSharpBasics\CSharpBasics\obj\Debug\net6.0\refint\CSharpBasics.dll
+D:\Amdaris\C#Basics\CSharpBasics\CSharpBasics\obj\Debug\net6.0\CSharpBasics.pdb
+D:\Amdaris\C#Basics\CSharpBasics\CSharpBasics\obj\Debug\net6.0\CSharpBasics.genruntimeconfig.cache
+D:\Amdaris\C#Basics\CSharpBasics\CSharpBasics\obj\Debug\net6.0\ref\CSharpBasics.dll

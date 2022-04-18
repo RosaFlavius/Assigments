@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Amdaris\\LINQ\\LinqApp\\LinqApp\\LinqApp.csproj": {}
+    "D:\\Amdaris\\Assigments\\LINQ\\LinqApp\\LinqApp\\LinqApp.csproj": {}
   },
   "projects": {
-    "D:\\Amdaris\\LINQ\\LinqApp\\LinqApp\\LinqApp.csproj": {
+    "D:\\Amdaris\\Assigments\\LINQ\\LinqApp\\LinqApp\\LinqApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Amdaris\\LINQ\\LinqApp\\LinqApp\\LinqApp.csproj",
+        "projectUniqueName": "D:\\Amdaris\\Assigments\\LINQ\\LinqApp\\LinqApp\\LinqApp.csproj",
         "projectName": "LinqApp",
-        "projectPath": "D:\\Amdaris\\LINQ\\LinqApp\\LinqApp\\LinqApp.csproj",
+        "projectPath": "D:\\Amdaris\\Assigments\\LINQ\\LinqApp\\LinqApp\\LinqApp.csproj",
         "packagesPath": "C:\\Users\\Flavius\\.nuget\\packages\\",
-        "outputPath": "D:\\Amdaris\\LINQ\\LinqApp\\LinqApp\\obj\\",
+        "outputPath": "D:\\Amdaris\\Assigments\\LINQ\\LinqApp\\LinqApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Flavius\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,15 @@
+D:\AmdarisProject\Strategy\Strategy\bin\Debug\net6.0\Strategy.exe
+D:\AmdarisProject\Strategy\Strategy\bin\Debug\net6.0\Strategy.deps.json
+D:\AmdarisProject\Strategy\Strategy\bin\Debug\net6.0\Strategy.runtimeconfig.json
+D:\AmdarisProject\Strategy\Strategy\bin\Debug\net6.0\Strategy.dll
+D:\AmdarisProject\Strategy\Strategy\bin\Debug\net6.0\Strategy.pdb
+D:\AmdarisProject\Strategy\Strategy\obj\Debug\net6.0\Strategy.csproj.AssemblyReference.cache
+D:\AmdarisProject\Strategy\Strategy\obj\Debug\net6.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+D:\AmdarisProject\Strategy\Strategy\obj\Debug\net6.0\Strategy.AssemblyInfoInputs.cache
+D:\AmdarisProject\Strategy\Strategy\obj\Debug\net6.0\Strategy.AssemblyInfo.cs
+D:\AmdarisProject\Strategy\Strategy\obj\Debug\net6.0\Strategy.csproj.CoreCompileInputs.cache
+D:\AmdarisProject\Strategy\Strategy\obj\Debug\net6.0\Strategy.dll
+D:\AmdarisProject\Strategy\Strategy\obj\Debug\net6.0\refint\Strategy.dll
+D:\AmdarisProject\Strategy\Strategy\obj\Debug\net6.0\Strategy.pdb
+D:\AmdarisProject\Strategy\Strategy\obj\Debug\net6.0\Strategy.genruntimeconfig.cache
+D:\AmdarisProject\Strategy\Strategy\obj\Debug\net6.0\ref\Strategy.dll
